@@ -10,3 +10,4 @@ not process transactions.
 The layout adapts to desktop and mobile screens, and animations respect reduced-motion preferences. The project can be viewed locally by opening index.html in a
 browser or published through a static hosting service such as Render, with no build step required.
 This project brings together web development and a family business, creating an online presence that feels personal and connected to my mother’s work.
+Link to access the website: https://alinelima.onrender.com/
